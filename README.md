@@ -1,4 +1,4 @@
-### HELLO, WORLD!👾
+### I'm a frontend developer 👾
 
 <div>
 <a href="https://github.com/jose-guilherme93">
@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
 
 <div display="block" width=100% justify-content="flex-end" align-items="center">
-    <img align-items="center" display=flex alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align-items="center" display=flex alt="js" height="30" width="40rem" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align-items="center" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align-items="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align-items="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
