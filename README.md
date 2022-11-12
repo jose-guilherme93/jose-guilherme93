@@ -1,4 +1,4 @@
-### I'm a frontend developer 👾
+### I'm a frontend developer and a bad gamer 👾
 
 <div>
 <a href="https://github.com/jose-guilherme93">
