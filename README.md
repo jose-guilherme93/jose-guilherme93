@@ -1,4 +1,4 @@
-### I'm a frontend developer 👾
+### I'm a Reactjs frontend developer 👾
 
 <div display="block" height="100%">
     <a href="https://github.com/jose-guilherme93">
