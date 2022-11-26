@@ -1,9 +1,9 @@
 ### I'm a Reactjs frontend developer 👾
 
-<div display="block" height="100%">
+<div display="block" >
     <a href="https://github.com/jose-guilherme93">
     <img  width=50% src="https://github-readme-stats.vercel.app/api?username=jose-guilherme93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img   width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-guilherme93&layout=compact&langs_count=7&theme=dark"/>
+    <img  width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=jose-guilherme93&layout=compact&langs_count=7&theme=dark"/>
     <a  href="https://git.io/streak-stats"><img width="50%"src="https://streak-stats.demolab.com?user=jose-guilherme93&theme=dark"/></a>
    
 </div>
