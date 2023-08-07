@@ -1,5 +1,5 @@
 ### Frontend Developer
-#### This profile is made focus on simplicity but powerfull ideas. 
+#### This profile is designed to focus on simplicity while incorporating powerful ideas. 
 
 <div display="block" >
     <a href="https://github.com/jose-guilherme93">
